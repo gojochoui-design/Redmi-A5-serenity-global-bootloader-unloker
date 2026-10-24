@@ -6,6 +6,7 @@
 > Tras el borrado, Android puede pedir la **cuenta Google (FRP)** que estaba en el móvil: ten las credenciales.
 > Perderás garantía y el aviso de arranque pasará a estado *orange* (normal en bootloader unlocked).
 > El autor de esta guía no se hace responsable de ladrillos, pérdida de datos o mal uso.
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/62bd7b98-da1b-41b0-aef4-1fbdfc141692" />
 
 ## Dos formas de usarlo
 
